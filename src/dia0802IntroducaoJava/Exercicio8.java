@@ -11,7 +11,7 @@ public class Exercicio8 {
 		Scanner	 leia = new Scanner(System.in);
 		
 		System.out.println("\nEntre com o Custo de Fábrica: ");
-		cf = leia.nextFloat();
+		cf = leia.nextDouble();
 		
 		pd = cf * 0.28;
 		i = cf * 0.45;

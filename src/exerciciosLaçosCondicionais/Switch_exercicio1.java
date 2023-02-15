@@ -27,7 +27,7 @@ public class Switch_exercicio1 {
 		case 1:
 			total = quant *10;
 			System.out.println("\nProduto: Cachorro Quente - Valor a pagar: "+total);
-		break;
+			break;
 		case 2:
 			total = quant *15;
 			System.out.println("\nProduto: X-Salada - Valor a pagar: "+total);

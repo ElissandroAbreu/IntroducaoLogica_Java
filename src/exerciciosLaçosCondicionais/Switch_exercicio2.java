@@ -47,25 +47,7 @@ public class Switch_exercicio2 {
 		break;
 		default:
 			System.out.println("\nOpção Inválida");
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		}
-		
-		
-		
-		
-		
-		
-
 	}
 
 }

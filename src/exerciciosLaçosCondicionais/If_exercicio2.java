@@ -20,10 +20,10 @@ public class If_exercicio2 {
 		else if(n % 2 == 0 && n < 0) {
 			System.out.println("\nO número "+n+" é par e negativo");
 		}
-		else if(n % 2 != 0 && n > 0) {
+		else if(n % 2 == 1 && n > 0) {
 			System.out.println("\nO número "+n+" é ímpar e positivo");
 		}
-		else if(n % 2 != 0 && n < 0) {
+		else if(n % 2 == 1 && n < 0) {
 			System.out.println("\nO número "+n+" é ímpar e negativo");
 		} 
 		else {
